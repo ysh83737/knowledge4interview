@@ -46,6 +46,7 @@
 - (选学)路由hash模式和history模式的优劣与区别
 - (选学)单向数据流与双向绑定，v-model原理
 - (选学)vue3基本实现原理，vue3的优点
+- (选学)vite原理，vite和webpack的区别
 
 ## 前端工程化
 - Webpack相关配置（entry、output、module、plugin）
